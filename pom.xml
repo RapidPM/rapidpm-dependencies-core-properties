@@ -75,9 +75,6 @@
 
 
   <properties>
-    <deploy-repo-url>http://jfrog-repo.sven-ruppert.de:8081/artifactory/libs-release</deploy-repo-url>
-    <deploy-repo-snapshots-url>http://jfrog-repo.sven-ruppert.de:8081/artifactory/libs-snapshot
-    </deploy-repo-snapshots-url>
     <jdk.version>1.8</jdk.version>
   </properties>
 
